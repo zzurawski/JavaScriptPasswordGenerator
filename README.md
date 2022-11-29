@@ -31,4 +31,7 @@ This webpage prompts the user with required paramters for their randomized passw
 ## Screenshot
 
 
+
 ## Link to Github Page
+
+https://zzurawski.github.io/JavaScriptPasswordGenerator/
